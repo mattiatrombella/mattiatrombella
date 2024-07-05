@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a Computer Science student at Milano-Bicocca university. 
 
-I am currently doing an internship at Inxpire - IT Solutions as a full stack developer.
+I am a developer at Inxpire - IT-Solutions.
 
 <b>My GitHub Stats</b>
 <!--
