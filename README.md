@@ -19,5 +19,6 @@ I am a Computer Science student at Milano-Bicocca university.
 
 I am a developer at Inxpire - IT-Solutions.
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b> 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiatrombella)](https://github.com/mattiatrombella/github-readme-stats)
