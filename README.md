@@ -21,7 +21,7 @@ I am a developer at Inxpire - IT-Solutions.
 
 <b>My GitHub Stats</b> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiatrombella)](https://github.com/mattiatrombella/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiatrombella&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiatrombella)](https://github.com/mattiatrombella/github-readme-stats)
 
