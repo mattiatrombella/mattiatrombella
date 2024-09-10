@@ -25,4 +25,4 @@ I am a developer at Inxpire - IT-Solutions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiatrombella)](https://github.com/mattiatrombella/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mattiatrombella)](https://github.com/mattiatrombella/github-readme-stats)
