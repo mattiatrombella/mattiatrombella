@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 I am a Computer Science student at Milano-Bicocca university. 
 
-I am a developer at Inxpire - IT-Solutions.
-<!--
+I am a developer at Inxpire - IT-Solutions
 <b>My GitHub Stats</b> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiatrombella&show_icons=true&theme=radical)
@@ -27,4 +26,4 @@ I am a developer at Inxpire - IT-Solutions.
 
 
 <a href="http://www.github.com/mattiatrombella"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiatrombella&stroke=64748b&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=64748b&currStreakLabel=6366f1&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
--->
+
