@@ -1,5 +1,6 @@
 # 💫 About Me:
 I hold a Bachelor's degree in Computer Science from the University of Milano-Bicocca.<br>I'm currently working as a Developer at It-Solutions and have a strong passion for market economics.
+Co-developed a mobile app for a university group project: https://github.com/FrancescoRomeo02/TicketWave_AndroidApp
 
 
 ## 🌐 Socials:
